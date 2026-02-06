@@ -18,7 +18,7 @@ Previous Chapter : D6
 3. Connect your ereader to "**KOReader-Turner"**
 4. Password is "12345678" without quotes.
 5. Enable https inspector in koreader. Click on the wrech icon>more tools>KOReader HTTP inspector. Make sure port is set to 8080. Start HTTP server.
-6. For convinince check "Auto start HTTP server"
+6. For convenience check "Auto start HTTP server"
 7. Make sure no other device is connect to esp AP.
 
 I made the project via ChatGpt. I got the idea from koreader-page-turner by askobee. https://github.com/akosbeke/koreader-page-turner.
