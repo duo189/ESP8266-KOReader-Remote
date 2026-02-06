@@ -4,13 +4,13 @@ Page Turning
 Chapter Turning
 
 **Pinout:**
-Next Page        D1
+Next Page        : D1
 
-Previous Page    D2
+Previous Page    : D2
 
-Next Chapter     D5
+Next Chapter     : D5
 
-Previous Chapter D6
+Previous Chapter : D6
 
 **Usage:**
 1. Upload the bin file.
