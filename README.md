@@ -5,8 +5,11 @@ Chapter Turning
 
 **Pinout:**
 Next Page        D1
+
 Previous Page    D2
+
 Next Chapter     D5
+
 Previous Chapter D6
 
 **Usage:**
