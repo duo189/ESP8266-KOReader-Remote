@@ -13,7 +13,7 @@ Next Chapter     : D5
 Previous Chapter : D6
 
 **Usage:**
-1. Upload the bin file.
+1. Upload the bin file to your esp using tasmotizer.
 2. Reboot the esp
 3. Connect your ereader to "**KOReader-Turner"**
 4. Password is "12345678" without quotes.
